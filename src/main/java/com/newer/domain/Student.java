@@ -9,5 +9,5 @@ import java.io.Serializable;
  * @Version:1.0
  */
 public class Student implements Serializable {
-
+  private Integer stuId;
 }
