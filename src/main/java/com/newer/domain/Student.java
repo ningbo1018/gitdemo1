@@ -11,4 +11,5 @@ import java.io.Serializable;
 public class Student implements Serializable {
   private Integer stuId;
   private String stuname;
+  private String stusex;
 }
